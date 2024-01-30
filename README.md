@@ -17,7 +17,7 @@
 <a href="https://twitter.com/amanbundeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanbundeli" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-verma-768738156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-아만-verma-768738156" height="30" width="40" /></a>
 <a href="https://fb.com/aman.verma.73744801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman.verma.73744801" height="30" width="40" /></a>
-<a href="https://instagram.com/bl0cked_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bl0cked_one" height="30" width="40" /></a>
+<a href="https://instagram.com/shakya_aman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bl0cked_one" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aman_shakya786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman_shakya786" height="30" width="40" /></a>
 </p>
 
