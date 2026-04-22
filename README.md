@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/amanvpmp">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/PMP%C2%AE-Certified-FFB400?style=flat&logo=pmi&logoColor=white" alt="PMP" />
